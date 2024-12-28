@@ -1,36 +1,15 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi, I'm Ansh. I am a mathematician currently working as a software engineer at [QuantSquad](https://www.quantsquad.net/). Mathematically, I am interested in probability theory, stochastic calculus, and their applications to derivatives pricing. As a programmer, I focus on distributed sytems, low-latency systems, and competitive programming. If you're interested, here is my [resume.](https://anshuman-singh-resume.tiiny.site/)
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+For a quick elevator pitch of my skills:
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+**Programming Languages:** Python, C++, Go, TypeScript\
+**Libraries & Frameworks:** NumPy, Pandas, PyTorch, FastAPI, React, Next.js\
+**Databases:** Postgres, MongoDB, Redis, ScyllaDB, PineconeDB\
+**Cloud:** GCP, AWS, Vercel, Docker, Kubernetes
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you'd like to connect, you can reach me on [LinkedIn.](https://www.linkedin.com/in/mr-money-in-the-bank/)
