@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-Hi, I'm Ansh. I am a mathematician currently working as a software engineer at [QuantSquad](https://www.quantsquad.net/). Mathematically, I am interested in probability theory, stochastic calculus, and their applications to derivatives pricing. As a programmer, I focus on distributed sytems, low-latency systems, and competitive programming. If you're interested, here is my [resume.](https://anshuman-singh-resume.tiiny.site/)
+Hi, I'm Ansh. I am a mathematician currently working as a software engineer at <a href="https://www.quantsquad.net/" target="_blank">QuantSquad</a>. Mathematically, I am interested in probability theory, stochastic calculus, and their applications to derivatives pricing. As a programmer, I focus on distributed sytems, low-latency systems, and competitive programming. If you're interested, here is my <a href="https://anshuman-singh-resume.tiiny.site/" target="_blank">resume</a>.
 
 For a quick elevator pitch of my skills:
 
