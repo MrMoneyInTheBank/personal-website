@@ -12,4 +12,5 @@ For a quick elevator pitch of my skills:
 **Databases:** Postgres, MongoDB, Redis, ScyllaDB, PineconeDB\
 **Cloud:** GCP, AWS, Vercel, Docker, Kubernetes
 
-If you'd like to connect, you can reach me on [LinkedIn.](https://www.linkedin.com/in/mr-money-in-the-bank/)
+If you'd like to connect, you can reach me on <a href="https://www.linkedin.com/in/mr-money-in-the-bank/" target="_blank">LinkedIn<a/>.
+
