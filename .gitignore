@@ -41,3 +41,5 @@ pnpm-debug.log*
 /coverage
 .early.coverage
 
+# Blog dev notes
+/BlogNotes
