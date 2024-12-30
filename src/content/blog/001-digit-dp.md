@@ -221,6 +221,6 @@ int get_magic_numbers(int low, int high) {
 }
 ```
 ## Final thoughts
-That's the essence of digit DP. Constructing a number sequentially while keeping within the range. Although applications of this technique are generally limited to competitive programming scenarios, man does it feel good when you're able to solve that question.
+That's the essence of digit DP. Constructing a number sequentially while keeping within the range. Although applications of this technique are generally limited to competitive programming scenarios, better to know it and not need it than to need it and not know it.
 
 
