@@ -1,6 +1,6 @@
 ---
 title: Should you care to learn digit dynamic programming?
-description: Dummy description
+description: What is digit DP?
 pubDatetime: 2025-01-01T09:30:00.000Z
 tags:
     - dynamic programming
