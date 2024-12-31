@@ -208,7 +208,7 @@ int get_magic_numbers_until(
 }
 
 int get_magic_numbers(int low, int high) {
-    int max_digits = to_string(high).length();
+    int max_digits = std::to_string(high).length();
     int max_digit_sum = 9 * max_digits;
     
     vector<vector<vector<vector<int>>>> memo = create_memo_table(max_digits, max_digit_sum);
